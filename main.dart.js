@@ -10696,12 +10696,10 @@ jY:function jY(a){this.a=a},
 tA:function tA(a){this.a=a},
 mX:function mX(a,b){this.c=a
 this.a=b},
-p6:function p6(a){var _=this
-_.d=0
-_.a=null
-_.b=a
-_.c=null},
-KI:function KI(a){this.a=a},
+p6:function p6(a){this.a=null
+this.b=a
+this.c=null},
+KI:function KI(){},
 Ao:function(){var t=0,s=P.ae(u.H),r,q,p,o,n,m
 var $async$Ao=P.aa(function(a,b){if(a===1)return P.ab(b,s)
 while(true)switch(t){case 0:t=2
@@ -34426,15 +34424,15 @@ t.push(Y.V4(!1,H.b([new U.b9(r,!1,!0,r,r,r,!1,[s],r,C.m,r,!1,!1,r,C.t)],u.p),"Th
 t.push(new U.lW("",!1,!0,r,r,r,!1,r,C.a0,C.m,"",!0,!1,r,C.ba))
 return!1}return!0}}
 F.tA.prototype={
-K:function(a){return new S.mJ(new F.mX("Flutter Demo Home Page",null),"Flutter App",X.Rk(C.L),!1,null)}}
+K:function(a){return new S.mJ(new F.mX("Flutter",null),"Flutter App",X.Rk(C.L),!1,null)}}
 F.mX.prototype={
 aK:function(){return new F.p6(C.o)}}
 F.p6.prototype={
-BK:function(){this.aN(new F.KI(this))},
+BK:function(){this.aN(new F.KI())},
 K:function(a){var t=null,s=L.I5(this.a.c,t)
-return new M.nF(new E.lh(s,new P.an(1/0,56),t),new T.hu(C.af,t,t,T.UU(H.b([L.I5("You have pushed the button this many times:",t),L.I5(""+this.d,K.b4(a).T.d)],u.E),C.nR),t),E.Qh(L.Qo(C.t2),!1,this.gBJ(),"Increment"),t)}}
+return new M.nF(new E.lh(s,new P.an(1/0,56),t),new T.hu(C.af,t,t,T.UU(H.b([L.I5("You have pushed the button this times:",t),L.I5("0",K.b4(a).T.d)],u.E),C.nR),t),E.Qh(L.Qo(C.t2),!1,this.gBJ(),"Increment"),t)}}
 F.KI.prototype={
-$0:function(){++this.a.d},
+$0:function(){},
 $S:0}
 N.kS.prototype={
 gl:function(a){return this.b},
