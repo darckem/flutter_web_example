@@ -34426,7 +34426,7 @@ t.push(Y.V4(!1,H.b([new U.b9(r,!1,!0,r,r,r,!1,[s],r,C.m,r,!1,!1,r,C.t)],u.p),"Th
 t.push(new U.lW("",!1,!0,r,r,r,!1,r,C.a0,C.m,"",!0,!1,r,C.ba))
 return!1}return!0}}
 F.tA.prototype={
-K:function(a){return new S.mJ(new F.mX("Flutter Demo Home Page",null),"Flutter Demo",X.Rk(C.L),!1,null)}}
+K:function(a){return new S.mJ(new F.mX("Flutter Demo Home Page",null),"Flutter App",X.Rk(C.L),!1,null)}}
 F.mX.prototype={
 aK:function(){return new F.p6(C.o)}}
 F.p6.prototype={
